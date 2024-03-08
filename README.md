@@ -1,2 +1,3 @@
 # app-miniprogram-wechat
-Wechat Miniprogram Playground
+
+- [微信开发者工具下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
