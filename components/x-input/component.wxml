@@ -1,0 +1,3 @@
+<!--components/my-component/component.wxml-->
+<text>value is {{value}}</text>
+<input type="text" value="{{value}}" bind:input="onChange"/>

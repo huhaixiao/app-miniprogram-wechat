@@ -1,2 +1,4 @@
 <!--pages/home/page.wxml-->
-<text>pages/home/page.wxml</text>
+<x-input value="{{xInputValue}}" bind:onchange="onChange">
+</x-input>
+<x-button bind:ontap="onTap">Submit</x-button>

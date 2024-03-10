@@ -1,0 +1,4 @@
+<!--components/x-button/component.wxml-->
+<button loading="{{loading}}" bind:tap="onTap">
+  <slot></slot>
+</button>

@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "x-button": "/components/x-button/component",
+    "x-input": "/components/x-input/component"
+  }
 }

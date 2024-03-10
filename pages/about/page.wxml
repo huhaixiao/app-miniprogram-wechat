@@ -1,0 +1,5 @@
+<!--pages/about/page.wxml-->
+<text>pages/about/page.wxml</text>
+<view>
+  <text>About</text>
+</view>

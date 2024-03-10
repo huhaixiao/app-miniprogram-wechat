@@ -1,5 +1,12 @@
 {
   "pages": [
-    "pages/home/page"
-  ]
+    "pages/home/page",
+    "pages/about/page"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "white"
+  }
 }
